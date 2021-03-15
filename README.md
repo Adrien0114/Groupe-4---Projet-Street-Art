@@ -19,7 +19,7 @@ Enfin, lorsqu’un utilisateur ajoute une œuvre éphémère (une vidéo d’une
 
 
 Bénéfices :
- Trouver des œuvres de Street Art, œuvres parfois invisibles ou inconnues.
- Partager des œuvres tout autour du monde. On visite le monde et les villes grâce au Street Art.
- On se crée un musée personnalisé, à l’air libre !
- Découvrir des nouveaux artistes.
+- Trouver des œuvres de Street Art, œuvres parfois invisibles ou inconnues.
+- Partager des œuvres tout autour du monde. On visite le monde et les villes grâce au Street Art.
+- On se crée un musée personnalisé, à l’air libre !
+- Découvrir des nouveaux artistes.
