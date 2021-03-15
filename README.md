@@ -18,8 +18,11 @@ Enfin, lorsqu’un utilisateur ajoute une œuvre éphémère (une vidéo d’une
 
 
 
-Bénéfices :
+3. Bénéfices :
 - Trouver des œuvres de Street Art, œuvres parfois invisibles ou inconnues.
 - Partager des œuvres tout autour du monde. On visite le monde et les villes grâce au Street Art.
 - On se crée un musée personnalisé, à l’air libre !
 - Découvrir des nouveaux artistes.
+
+4. Liste des actions possibles pour les différents rôles dans le projet (user, admin, etc.) :  
+- Pour les utilisateurs, rechercher des œuvres autour de sa position, ajouter du contenu et le décrire, créer son propre parcour, regarder les œuvres du monde entier, recevoir des notifications sur les arts éphémères, signaler si une oeuvre est inexistante.
