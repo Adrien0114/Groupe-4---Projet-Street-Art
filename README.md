@@ -1,6 +1,6 @@
 # Groupe-4---Projet-Street-Art
 
-Titre de l'application: 
+Titre de l'application: StreetApp, ArtCraft, CRAFTED, ArtStreet
 
 1. Description : 
 L’application Street Art consiste à créer un musée virtuel d’œuvres de Street Art : tag, mosaïque, peinture, dessin, danse, chant…
