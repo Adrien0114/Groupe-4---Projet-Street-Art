@@ -3,6 +3,7 @@
 Titre de l'application: StreetApp, ArtCraft, CRAFTED, ArtStreet
 
 1. Description : 
+
 L’application Street Art consiste à créer un musée virtuel d’œuvres de Street Art : tag, mosaïque, peinture, dessin, danse, chant…
 Les utilisateurs pourront ajouter sur une carte les œuvres aperçues dans le paysage urbain. Les autres utilisateurs de l’application pourront alors consulter ces œuvres de chez eux. 
 
