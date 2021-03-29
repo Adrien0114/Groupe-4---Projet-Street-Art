@@ -4,10 +4,10 @@ Titre de l'application: StreetApp, ArtCraft, CRAFTED, ArtStreet
 
 1. Description : 
 L’application Street Art consiste à créer un musée virtuel d’œuvres de Street Art : tag, mosaïque, peinture, dessin, danse, chant…
-Les utilisateurs pourront ajouter sur une carte les œuvres aperçues dans le paysage urbain. Ils en donneront alors les caractéristiques (le nom de l’artiste, la technique, le sujet…). Les autres utilisateurs de l’application pourront alors consulter ces œuvres de chez eux. 
-En outre, les utilisateurs pourront sélectionner certaines œuvres et créer un parcours entre elles. Un touriste visitant Londres, par exemple, pourrait ainsi prévoir son itinéraire afin de découvrir la ville et ses oeuvres.
-De plus, l'utilisateur pourra commenter une oeuvre et consulter les autres commentaires la concernant (les utilisateurs pourront alors échanger, se conseiller ou non certaines oeuvres...).
-Enfin, lorsqu’un utilisateur ajoute une œuvre éphémère (une vidéo d’une performance de danse, de musique), une notification sera envoyée aux autres adeptes de Street Art qui pourront suivre la performance soit en live (si elle est filmée) soit directement sur place.
+Les utilisateurs pourront ajouter sur une carte les œuvres aperçues dans le paysage urbain. Les autres utilisateurs de l’application pourront alors consulter ces œuvres de chez eux. 
+En outre, les utilisateurs pourront sélectionner certaines œuvres et créer un parcours entre elles. Le parcours créé peut être nommé, partagé sur l'application et utilisé par les autres utilisateurs. Un touriste visitant Londres, par exemple, pourrait ainsi prévoir son itinéraire afin de découvrir la ville et ses oeuvres. L'utilisateur peut donc soit suivre un parcours existant soit s'en créer un personnalisé.
+Lors de son parcours, l'utilisateur tape deux fois sur l'image pour signaler l'oeuvre a été vue (à la manière d'un "like"), maintenir signifie que l'utilisateur ne souhaite pas voir l'oeuvre (en rouge), arrivé sur place, si l'oeuvre est supprimée, l'utilisateur peut le signaler et l'oeuvre passe en orange.Au bout du 2-3ème signalement d'inexistence sur une oeuvre, cette dernière n'est pas supprimée des parcours mais passe chez chaque utilisateur en orange. Cela permettra de garder une trace visuelle des oeuvres supprimées.
+Lorsqu’un utilisateur ajoute une œuvre éphémère (une vidéo d’une performance de danse, de musique), une notification sera envoyée aux autres adeptes de Street Art dans un périmètre restreint. Ces derniers pourront suivre la performance soit en live (si elle est filmée) soit directement sur place. Comme pour une story Instagram, l'oeuvre éphémère est signalée par une couleur spéciale.
 
 2. Services apparentés (concurrents) 
 - SpotR: En syncronisant son compte Instagram, elle nous permet de débusqué tout genre de StreetArt sur un map interactive. (quelques différences notables par rapport à la notre)
